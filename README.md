@@ -9,4 +9,4 @@ Focus on **solving problems first**, rather than just writing code
 Currently working at [JetRockets](https://jetrockets.com/), where we build apps that help businesses grow using RoR and a jungle of FE technologies
 
 Feel free to reach out:
-[LinkedIn](https://www.linkedin.com/in/romanov-maksim/) / [Email](mailto:romanov.maxim.98@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/romanov-maksim/) / [Email](mailto:romanov.maxim.98@gmail.com) / [Telegram](https://t.me/romanovmaksim)
