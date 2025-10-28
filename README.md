@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Front-end and mobile developer, special in **React**/**React Native**/**Flutter** and **Swift** development&nbsp;&nbsp;&nbsp;
+Full-stack developer with a focus on Front-end and Mobile — building stuff with React/React Native, Flutter, Swift & Ruby on Rails on be.
 
 Currently working at [JetRockets](https://jetrockets.com/), where we build apps that help businesses grow using RoR and a jungle of FE technologies
 
